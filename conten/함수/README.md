@@ -3,11 +3,11 @@
 Javascript에서 함수는 유연성이 높다.  
 
 ## 목차
-- [익명함수](익명함수)
-- [즉시실행함수](즉시실행함수)
-- [함수호출방법](함수-호출-방법)
+- [익명 함수](#익명-함수)
+- [즉시실행함수](#즉시실행함수)
+- [함수호출방법](#함수-호출-방법)
 
-### 익명함수
+### 익명 함수
 
 ```javascript
 function() {
@@ -31,7 +31,7 @@ getId();
 
 이를 통해 익명함수를 호출할 수 있다.
 
-```javascript=
+```javascript
 const testFunc = function() {
     return '익명함수를 호출합니다';
 }
@@ -40,7 +40,7 @@ const testFunc = function() {
 testFunc라는 변수안에 `익명함수를 호출합니다` 라는 문자열을 반환하는 함수가 담긴다.
 
 
-```javascript=
+```javascript
 testFunc();
 ```
 이와 같이 익명함수를 호출 할 수 있다.
@@ -49,7 +49,7 @@ testFunc();
 ### 즉시실행함수
 또 한가지 방법으로 **즉시실행함수** 가 있다.
 
-```javascript=
+```javascript
 (function(a) {
     return a * 2;
 })(2) 
@@ -61,7 +61,7 @@ testFunc();
 
 익명함수만 즉시실행함수로 정의가 가능한 것은 아니다.
 즉시실행함수로 비익명(기명)함수도 실행가능하다.
-```javascript=
+```javascript
 (function multiply(a) {
     return a * 2;
 })(2) 
@@ -78,7 +78,7 @@ testFunc();
 
 `call`함수와 `apply`함수는 사용법은 거의 같으나 함수 호출에 필요한 인자를 넘겨주는 방식에 차이가 있다.
 
-```javascript=
+```javascript
 function concat(a, b) {
     return `${a} ${b}`;
 }
