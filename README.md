@@ -3,3 +3,4 @@
 
 ## Javascript
 - [함수](./content/함수)
+- [클래스](./content/클래스)
