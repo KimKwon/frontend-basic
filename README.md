@@ -18,8 +18,8 @@
 
 --- 
 ## 🔥::TODO LIST::🔥
+- [X] ~~생성자 함수~~
 - [ ] 클로저
-- [X] 생성자 함수
 - [ ] 실행 컨텍스트(this)
 - [ ] webpack
 - [ ] serviceWorker
