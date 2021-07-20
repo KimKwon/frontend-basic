@@ -23,4 +23,5 @@
 - [ ] 실행 컨텍스트(this)
 - [ ] webpack
 - [ ] serviceWorker
+- [ ] SSR vs CSR
 - [ ] etc.
