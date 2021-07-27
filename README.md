@@ -33,5 +33,6 @@
 - [ ] 클로저
 - [ ] 실행 컨텍스트(this)
 - [ ] webpack
+- [ ] babel
 - [ ] serviceWorker
 - [ ] etc.
