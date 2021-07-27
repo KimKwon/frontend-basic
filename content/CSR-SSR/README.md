@@ -5,9 +5,9 @@
 ## 목차
 
 - [서론](#서론)
-- [CSR이란?](#CSR이란?)
-- [SSR이란?](#SSR이란?)
-- [TTI와 TTV](#TTI와-TTV)
+- [CSR이란?](#csr이란)
+- [SSR이란?](#ssr이란)
+- [TTI와 TTV](#tti와-ttv)
 
 ### 서론
 
