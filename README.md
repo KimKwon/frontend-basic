@@ -15,7 +15,7 @@
 - [호이스팅](./content/호이스팅) 📝
 - [프로토타입](./content/프로토타입) 📝
 - [SSR과 CSR](./content/CSR-SSR) 📝
-- [쿠키, 세션, 웹 스토리지](./content/스토리지) :memo:
+- [쿠키, 세션, 웹 스토리지](./content/storage) :memo:
 
 ---
 
