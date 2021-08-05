@@ -39,3 +39,8 @@
 - [ ] serviceWorker
 - [ ] JWT
 - [ ] etc.
+
+---
+
+## 프레임워크 / 라이브러리 관련 도큐먼트
+- [Next.js + Typescript 환경에서 Path Alias 설정하기](./content/more/path-alias) :memo:
