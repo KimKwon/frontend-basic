@@ -16,6 +16,7 @@
 - [프로토타입](./content/프로토타입) 📝
 - [SSR과 CSR](./content/CSR-SSR) 📝
 - [쿠키, 세션, 웹 스토리지](./content/storage) :memo:
+- [History API](./content/history) :memo:
 
 ---
 
