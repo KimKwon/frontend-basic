@@ -88,7 +88,7 @@ history.replaceState({ name: 'Jin' }, '', 'happy');
 
 --- 
 
-* *history.back() *
+* *history.back()*
     * 뒤로가기
 * *history.go(index)*
     * 특정 인덱스로 이동하기
