@@ -17,6 +17,7 @@
 - [SSR과 CSR](./content/CSR-SSR) 📝
 - [쿠키, 세션, 웹 스토리지](./content/storage) :memo:
 - [History API](./content/history) :memo:
+- [컨텍스트](./content/컨텍스트) :memo:
 
 ---
 
@@ -24,9 +25,9 @@
 
 - [x] ~~생성자 함수~~
 - [x] ~~SSR vs CSR~~
+- [x] ~~실행 컨텍스트(this)~~
 - [ ] about Form api
 - [ ] 클로저
-- [ ] 실행 컨텍스트(this)
 - [ ] webpack
 - [ ] babel
 - [ ] serviceWorker
