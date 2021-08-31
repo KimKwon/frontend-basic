@@ -17,7 +17,7 @@
 - [SSR과 CSR](./content/CSR-SSR) 📝
 - [쿠키, 세션, 웹 스토리지](./content/storage) :memo:
 - [History API](./content/history) :memo:
-- [컨텍스트](./content/컨텍스트) :memo:
+- [컨텍스트](./content/context) :memo:
 
 ---
 
