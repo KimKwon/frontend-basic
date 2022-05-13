@@ -1,0 +1,48 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.navbar {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.navbar > a {
+  display: inline-block;
+  font-size: 32px;
+
+  text-decoration: none;
+
+  border-radius: 18px;
+  background-color: #8040ff;
+  color: white;
+  padding: 5px 10px;
+}
+
+.mainPage {
+  background-color: #4a4b43;
+
+  padding: 50px 0;
+  color: white;
+}
+.postPage {
+  background-color: #40d2ff;
+
+  padding: 50px 0;
+  color: white;
+}
+.shopPage {
+  background-color: #ff40cf;
+
+  padding: 50px 0;
+  color: white;
+}
+
+.navbar > a:hover {
+  transform: scale(0.95);
+}
