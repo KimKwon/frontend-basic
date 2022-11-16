@@ -40,8 +40,9 @@ EdgeHTML|	트라이던트에서 파생된 마이크로소프트의 레이아웃 
 
 #### DOM 트리
 <p align="center">
-  <img src="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/dom-tree.png?hl=ko" alt="dom-tree"  />
+  <img src="https://web-dev.imgix.net/image/cGQxYFGJrUUaUZyWhyt9yo5gHhs1/XNtLYpXIK4zOXj9AgG5Y.png?auto=format&w=1532" alt="dom-tree"  />
 </p>
+
 
 HTML 마크업을 위와 같은 트리 형태로 변환 시킨 것을 `DOM 트리`라고 한다.
 브라우저는 이 DOM 트리를 사용하여 화면을 그리게 된다.
@@ -66,7 +67,7 @@ HTML의 각 노드들은 노드 간 상하구조를 가지고 있는데 이 역�
 
 #### CSSOM 트리
 <p align="center">
-  <img src="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/cssom-tree.png?hl=ko" alt="dom-tree"  />
+  <img src="https://web-dev.imgix.net/image/C47gYyWYVMMhDmtYSLOWazuyePF2/keK3wDv9k2KzJA9QubFx.png?auto=format&w=1164" alt="cssom-tree"  />
 </p>
 
 
@@ -96,7 +97,8 @@ p {
 
 렌더링 엔진은 위에서 언급한 `DOM 트리`와 `CSSOM 트리`를 기반으로 `렌더링 트리`를 만든다.
 
-![](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/render-tree-construction.png?hl=ko)
+![](https://user-images.githubusercontent.com/22493971/202092409-0b7592f6-c7c9-46a1-b314-de19cde139d9.png)
+
 
 여기서 렌더링 트리에는 실제로 **화면 상에 나타나게 되는 노드**만 포함한다. 
 즉, css에 `display: none` 속성이 부여된 노드는 렌더링 트리에 포함되지 않는다는 것이다.
